@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaddyCenter", "RaddyCenter\RaddyCenter.csproj", "{980C8BFA-A8AE-4014-A329-FA324997853E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaddyCenter.Data", "RaddyCenter.Data\RaddyCenter.Data.csproj", "{F46B3C39-5E40-4595-8F78-958FADBB9649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980C8BFA-A8AE-4014-A329-FA324997853E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980C8BFA-A8AE-4014-A329-FA324997853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980C8BFA-A8AE-4014-A329-FA324997853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980C8BFA-A8AE-4014-A329-FA324997853E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46B3C39-5E40-4595-8F78-958FADBB9649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46B3C39-5E40-4595-8F78-958FADBB9649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46B3C39-5E40-4595-8F78-958FADBB9649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46B3C39-5E40-4595-8F78-958FADBB9649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C49068F-0956-4D9C-9A19-33F13179E48A}
+	EndGlobalSection
+EndGlobal
